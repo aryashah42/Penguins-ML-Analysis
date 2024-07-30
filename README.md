@@ -14,15 +14,6 @@ In this project, various machine learning models were surveyed to classify a dat
 6. **Evaluating the performance of these models using various statistical measures.**
 7. **Discussing the limitations and summarizing the findings, providing insights and potential directions for future research.**
 
-## Table of Contents
-* [Installation](#installation)
-* [Usage](#usage)
-* [Project Structure](#project-structure)
-* [Results](#results)
-* [Discussion and Conclusion](#discussion-and-conclusion)
-* [Contributing](#contributing)
-* [License](#license)
-
 ## Installation
 To run this project, ensure you have the following libraries installed:
 
